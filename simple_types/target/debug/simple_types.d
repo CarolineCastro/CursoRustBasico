@@ -1,0 +1,1 @@
+C:\Users\Andrea\ c\Desktop\CursoRustBasico\simple_types\target\debug\simple_types.exe: C:\Users\Andrea\ c\Desktop\CursoRustBasico\simple_types\src\lib.rs C:\Users\Andrea\ c\Desktop\CursoRustBasico\simple_types\src\main.rs
