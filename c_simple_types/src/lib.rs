@@ -23,3 +23,5 @@ pub fn print_distance(x: f32, y: f32){ //before this function are not declare tw
     println!(
         "Distance to the origin is {}",
         (x.powf(2.0) + y.powf(2.0)).sqrt()); // now is accordingly with best pratices
+
+}
